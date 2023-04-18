@@ -1,11 +1,13 @@
-{
-  "name" : "button_text",
-  "label" : "Button_text",
-  "required" : true,
-  "locked" : false,
-  "validation_regex" : "",
-  "allow_new_line" : false,
-  "show_emoji_picker" : false,
-  "type" : "text",
-  "default" : "Click Me"
-}
+[
+  {
+    "name" : "button_text",
+    "label" : "Button_text",
+    "required" : true,
+    "locked" : false,
+    "validation_regex" : "",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Click Me"
+  }
+]

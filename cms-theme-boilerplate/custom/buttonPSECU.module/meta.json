@@ -1,0 +1,6 @@
+{
+  "global" : false,
+  "host_template_types" : [ "PAGE", "BLOG_LISTING", "BLOG_POST" ],
+  "module_id" : 111583299116,
+  "is_available_for_new_content" : true
+}

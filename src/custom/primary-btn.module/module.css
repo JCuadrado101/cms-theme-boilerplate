@@ -1,0 +1,13 @@
+#primary-btn {
+  background-color: #177D78;
+  border: none;
+  border-radius: 5px;
+  color: #F1F1F4;
+  font-weight: 700;
+  padding: 13px 30px;
+}
+
+#primary-btn:hover {
+  background-color: #084441;
+  cursor: pointer;
+}
